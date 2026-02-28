@@ -1,0 +1,5 @@
+{
+  "name": "Supabase Task Manager",
+  "description": "A full-featured task manager with Supabase Auth, CRUD, and Realtime updates.",
+  "requestFramePermissions": []
+}
